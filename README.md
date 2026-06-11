@@ -6,16 +6,6 @@ This repository contains cleaned R scripts for reproducing the simulation and em
 
 The code implements the projection-and-pooling estimator for a shared quartic non-convex component.  The order-constrained step is an ordinary weighted isotonic projection on the same finite partial order; the non-convex step is a scalar maximization within each level set of the projection.
 
-## Recommended repository name
-
-Use
-
-```bash
-crbaek/nonconvex-isotonic
-```
-
-rather than `nonconvec_isotonic`.  The latter has a typo and the underscore style is less standard for public academic repositories.  A longer alternative is `crbaek/nonconvex-isotonic-regression`.
-
 ## Repository layout
 
 ```text
