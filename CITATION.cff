@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper listed under preferred-citation."
+title: "Replication materials for non-convex isotonic regression simulations"
+authors:
+  - family-names: Baek
+    given-names: Changryong
+  - family-names: Cui
+    given-names: Zhenyu
+  - family-names: Kim
+    given-names: Dong Woo
+  - family-names: Lee
+    given-names: Chihoon
+  - family-names: Zhu
+    given-names: Yunfan
+version: 1.0.0
+date-released: 2026-05-25
+repository-code: "https://github.com/crbaek/nonconvex-isotonic"
+preferred-citation:
+  type: article
+  title: "Projection and Pooling for Non-Convex Isotonic Regression on Finite Partial Orders"
+  authors:
+    - family-names: Baek
+      given-names: Changryong
+    - family-names: Cui
+      given-names: Zhenyu
+    - family-names: Kim
+      given-names: Dong Woo
+    - family-names: Lee
+      given-names: Chihoon
+    - family-names: Zhu
+      given-names: Yunfan
+  year: 2026
+  notes: "Manuscript"
